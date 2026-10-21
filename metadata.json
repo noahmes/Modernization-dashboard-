@@ -1,0 +1,8 @@
+{
+  "name": "Remix  Modernization Monitoring Pulse",
+  "description": "Live banking and fintech modernization intelligence dashboard for change, treasury, and strategy teams with multi-source feed ingestion, AI taxonomy classification, Ethiopia-priority lane, and one-click weekly executive pulse export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
